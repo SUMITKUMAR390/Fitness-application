@@ -1,0 +1,18 @@
+.home {
+  padding: 20px;
+  text-align: center;
+}
+
+.workout-plans-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.workout-plan-card {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin: 10px;
+  padding: 10px;
+  width: 200px;
+}
